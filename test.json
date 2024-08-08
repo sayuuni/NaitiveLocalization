@@ -1,0 +1,38 @@
+{
+  "TEST_STRING": {
+    "ru": "Меню",
+    "en": "Menu"
+  },
+  "TEST_STRING_NULL_EN": {
+    "ru": "Меню"
+  },
+  "TEST_STRING_NULL_KEY_RU": {
+    "ru": null
+  },
+  "TEST_STRING_NULL_ALL": {
+  },
+  "TEST_ARRAY": {
+    "ru": [
+      "",
+      "Успех",
+      ""
+    ],
+    "en": [
+      "",
+      "Success",
+      ""
+    ]
+  },
+  "TEST_ARRAY_NULL_EN": {
+    "ru": [
+      "",
+      "Успех",
+      ""
+    ]
+  },
+  "TEST_ARRAY_NULL_KEY_RU": {
+    "ru": null
+  },
+  "TEST_ARRAY_NULL_ALL": {
+  }
+}
