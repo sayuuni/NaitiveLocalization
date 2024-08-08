@@ -1,10 +1,10 @@
 {
   "TEST_STRING": {
-    "ru": "Меню",
-    "en": "Menu"
+    "ru": "Меню ⁞test⁞ ⁞test1⁞",
+    "en": "Menu ⁞test⁞ ⁞test1⁞"
   },
   "TEST_STRING_NULL_EN": {
-    "ru": "Меню"
+    "ru": "Меню ⁞test⁞ ⁞test1⁞"
   },
   "TEST_STRING_NULL_KEY_RU": {
     "ru": null
@@ -13,21 +13,21 @@
   },
   "TEST_ARRAY": {
     "ru": [
-      "",
-      "Успех",
-      ""
+      " ⁞test⁞ ⁞test1⁞",
+      "Успех ⁞test⁞ ⁞test1⁞",
+      " ⁞test⁞ ⁞test1⁞"
     ],
     "en": [
-      "",
-      "Success",
-      ""
+      " ⁞test⁞ ⁞test1⁞",
+      "Success ⁞test⁞ ⁞test1⁞",
+      " ⁞test⁞ ⁞test1⁞"
     ]
   },
   "TEST_ARRAY_NULL_EN": {
     "ru": [
-      "",
-      "Успех",
-      ""
+      " ⁞test⁞ ⁞test1⁞",
+      "Успех ⁞test⁞ ⁞test1⁞",
+      " ⁞test⁞ ⁞test1⁞"
     ]
   },
   "TEST_ARRAY_NULL_KEY_RU": {
