@@ -1,4 +1,7 @@
 {
+	"SERVERTYPE_PROXY": {
+		"ru": "Прокси"
+	},
 	"SERVERTYPE_SURVIVAL": {
 		"ru": "Выживание"
 	},
