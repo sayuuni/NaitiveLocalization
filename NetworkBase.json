@@ -1,47 +1,58 @@
 {
 	"ACCOUNT_DELETE": {
 		"ru": "Ваш аккаунт был удалён администрацией проекта.\nСпасибо, что играли",
-		"ua": "Ваш акаунт було видалено адміністрацією проекту.\nДякую, що грали"
+		"ua": "Ваш акаунт було видалено адміністрацією проекту.\nДякую, що грали",
+		"en": "Your account has been deleted by the project administration.\nThanks for playing"
 	},
 	"ACCOUNT_NOT_FOUND_DATABASE": {
 		"ru": "Данный пользователь не зарегистрирован",
-		"ua": "Даний користувач не зареєстрований"
+		"ua": "Даний користувач не зареєстрований",
+		"en": "This user is not registered"
 	},
 	"USERNAME_DOESNT_MATCH": {
 		"ru": "Ваш никнейм не соответствует никнейму в базе",
-		"ua": "Ваш нікнейм не відповідає нікнейму в базі"
+		"ua": "Ваш нікнейм не відповідає нікнейму в базі",
+		"en": "Your username does not match the one in the database"
 	},
 	"USERNAME_NOT_CORRECT": {
 		"ru": "Указанный никнейм некорректный",
-		"ua": "Вказаний нікнейм некоректно"
+		"ua": "Вказаний нікнейм некоректно",
+		"en": "The specified username is incorrect"
 	},
 	"COMMAND_TEST": {
 		"ru": "Тестовое сообщение",
-		"ua": "Текстове повідомлення"
+		"ua": "Текстове повідомлення",
+		"en": "Test message"
 	},
 	"COMMAND_USE_ONLY_AUTH": {
 		"ru": "Данная команда доступна только на авторизационных серверах",
-		"ua": "Дана команда доступна тільки на авторизаційних серверах"
+		"ua": "Дана команда доступна тільки на авторизаційних серверах",
+		"en": "This command is available only on authorization servers"
 	},
 	"COMMAND_USE_ONLY_GAMES": {
 		"ru": "Данная команда доступна только на игровых серверах",
-		"ua": "Дана команда доступна тільки на ігрових серверах"
+		"ua": "Дана команда доступна тільки на ігрових серверах",
+		"en": "This command is available only on game servers"
 	},
 	"NOT_ACCESS": {
 		"ru": "У вас нет прав для использования данного действия!",
-		"ua": "У вас немає прав для використання даної дії!"
+		"ua": "У вас немає прав для використання даної дії!",
+		"en": "You do not have the rights to perform this action!"
 	},
 	"SERVERTYPE_PROXY": {
 		"ru": "Прокси",
-		"ua": "Проксі"
+		"ua": "Проксі",
+		"en": "Proxy"
 	},
 	"SERVERTYPE_PROXY_LORE": {
 		"ru": ["§fУвы, но описание ещё не придумано!"],
-		"ua": ["§fНа жаль, але опис ще не придумано!"]
+		"ua": ["§fНа жаль, але опис ще не придумано!"],
+		"en": ["§fUnfortunately, the description is not yet available!"]
 	},
 	"SERVERTYPE_SURVIVAL": {
 		"ru": "Выживание",
-		"ua": "Виживання"
+		"ua": "Виживання",
+		"en": "Survival"
 	},
 	"SERVERTYPE_SURVIVAL_LORE": {
 		"ru": [
@@ -63,11 +74,22 @@
 			"§fбудуй, розвивайся, спілкуйся або",
 			"§fсуперничай з іншими гравцями!",
 			"§fВідкривай Minecraft по-новому вже зараз"
+		],
+		"en": [
+			"§7Survival in an open world",
+			"§f",
+			"§f An unusual survival experience with altered",
+			"§fMinecraft mechanics! Here you can",
+			"§fplay however you like:",
+			"§fbuild, develop, communicate, or",
+			"§fcompete with other players!",
+			"§fDiscover Minecraft in a new way now"
 		]
 	},
 	"SERVERTYPE_TEMPGAME": {
 		"ru": "Временные игры",
-		"ua": "Тимчасові ігри"
+		"ua": "Тимчасові ігри",
+		"en": "Temporary games"
 	},
 	"SERVERTYPE_TEMPGAME_LORE": {
 		"ru": [
@@ -97,62 +119,89 @@
 			"§6 Діючі режими:",
 			"§f1. §cВідсутнні",
 			"§f2. §cВідсутнні"
+		],
+		"en": [
+			"§7Various games",
+			"§f",
+			"§f Test our developments in action!",
+			"§fExclusive and interactive modes from",
+			"§four developers that will surely",
+			"§fkeep you entertained! After some time,",
+			"§fyou will decide the fate of these modes",
+			"§f",
+			"§6 Active modes:",
+			"§f1. §cUnavailable",
+			"§f2. §cUnavailable"
 		]
 	},
 	"SERVERTYPE_LOBBY": {
 		"ru": "Лобби",
-		"ua": "Лоббі"
+		"ua": "Лоббі",
+		"en": "Lobby"
 	},
 	"SERVERTYPE_LOBBY_LORE": {
 		"ru": ["§fУвы, но описание ещё не придумано!"],
-		"ua": ["§fНа жаль, але опис ще не придумано!"]
+		"ua": ["§fНа жаль, але опис ще не придумано!"],
+		"en": ["§fUnfortunately, the description is not yet available!"]
 	},
 	"SERVERTYPE_TOURNAMENT": {
 		"ru": "Турнирный",
-		"ua": "Турнірний"
+		"ua": "Турнірний",
+		"en": "Tournament"
 	},
 	"SERVERTYPE_TOURNAMENT_LORE": {
 		"ru": ["§fУвы, но описание ещё не придумано!"],
-		"ua": ["§fНа жаль, але опис ще не придумано!"]
+		"ua": ["§fНа жаль, але опис ще не придумано!"],
+		"en": ["§fUnfortunately, the description is not yet available!"]
 	},
 	"SERVERTYPE_BUILD": {
 		"ru": "Строительный",
-		"ua": "Будівничий"
+		"ua": "Будівничий",
+		"en": "Building"
 	},
 	"SERVERTYPE_BUILD_LORE": {
 		"ru": ["§fУвы, но описание ещё не придумано!"],
-		"ua": ["§fНа жаль, але опис ще не придумано!"]
+		"ua": ["§fНа жаль, але опис ще не придумано!"],
+		"en": ["§fUnfortunately, the description is not yet available!"]
 	},
 	"SERVERTYPE_TEST": {
 		"ru": "Тестовый",
-		"ua": "Тестовий"
+		"ua": "Тестовий",
+		"en": "Test"
 	},
 	"SERVERTYPE_TEST_LORE": {
 		"ru": ["§fУвы, но описание ещё не придумано!"],
-		"ua": ["§fНа жаль, але опис ще не придумано!"]
+		"ua": ["§fНа жаль, але опис ще не придумано!"],
+		"en": ["§fUnfortunately, the description is not yet available!"]
 	},
 	"SERVERTYPE_LIMBO": {
 		"ru": "Лимбо",
-		"ua": "Лімбо"
+		"ua": "Лімбо",
+		"en": "Limbo"
 	},
 	"SERVERTYPE_LIMBO_LORE": {
 		"ru": ["§fУвы, но описание ещё не придумано!"],
-		"ua": ["§fНа жаль, але опис ще не придумано!"]
+		"ua": ["§fНа жаль, але опис ще не придумано!"],
+		"en": ["§fUnfortunately, the description is not yet available!"]
 	},
 	"SERVERTYPE_AUTH": {
 		"ru": "Авторизационный",
-		"ua": "Авторизаційний"
+		"ua": "Авторизаційний",
+		"en": "Authorization"
 	},
 	"SERVERTYPE_AUTH_LORE": {
 		"ru": ["§fУвы, но описание ещё не придумано!"],
-		"ua": ["§fНа жаль, але опис ще не придумано!"]
+		"ua": ["§fНа жаль, але опис ще не придумано!"],
+		"en": ["§fUnfortunately, the description is not yet available!"]
 	},
 	"SERVERTYPE_UNKNOWN": {
 		"ru": "WTF??",
-		"ua": "WTF??"
+		"ua": "WTF??",
+		"en": "WTF??"
 	},
 	"SERVERTYPE_UNKNOWN_LORE": {
 		"ru": ["§fУвы, но описание ещё не придумано!"],
-		"ua": ["§fНа жаль, але опис ще не придумано!"]
+		"ua": ["§fНа жаль, але опис ще не придумано!"],
+		"en": ["§fUnfortunately, the description is not yet available!"]
 	}
 }
