@@ -1,0 +1,29 @@
+{
+	"SERVERTYPE_SURVIVAL": {
+		"ru": "Выживание"
+	},
+	"SERVERTYPE_TEMPGAME": {
+		"ru": "Временные игры"
+	},
+	"SERVERTYPE_LOBBY": {
+		"ru": "Лобби"
+	},
+	"SERVERTYPE_TOURNAMENT": {
+		"ru": "Турнирный"
+	},
+	"SERVERTYPE_BUILD": {
+		"ru": "Строительный"
+	},
+	"SERVERTYPE_TEST": {
+		"ru": "Тестовый"
+	},
+	"SERVERTYPE_LIMBO": {
+		"ru": "Лимбо"
+	},
+	"SERVERTYPE_AUTH": {
+		"ru": "Авторизационный"
+	},
+	"SERVERTYPE_UNKNOWN": {
+		"ru": "WTF??"
+	}
+}
